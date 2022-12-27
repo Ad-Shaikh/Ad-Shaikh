@@ -1,4 +1,17 @@
-Hi there, I am Adnan Shaikh 👋
+![## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Adnan Shaikh!]
+
+### About Me 🚀
+
+👨‍A Computer Science Engineer based in India with keen interest in building solutions with software development skills. I am seeking for a learning, challenging & progressive career which could provide me with sufficient opportunities to apply my academic and personal knowledge for achieving my goals.</br>
+I help convert a vision and an idea into meaningful and useful software products. </br>
+💻 I am passionate about Python,Fullstack Dev, Linux, AI &ML & I enjoy learning new stuffs. </br>
+
+### Here is What I'm working on
+
+   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" />
+
+- 🔭 I’m currently working on ... Personal Projects (Personal Website, Portfolio, Linux etc)
+- 🌱 I’m currently learning ... .NET, Docker, Python. Also interested in upcoming technologies like AI / Quantum computing.
 
 ## 🌐 Socials:
 
@@ -17,10 +30,6 @@ Hi there, I am Adnan Shaikh 👋
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 
