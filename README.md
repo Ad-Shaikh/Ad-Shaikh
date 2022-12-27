@@ -1,4 +1,4 @@
-![## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Adnan Shaikh!]
+# Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">, I'm Adnan Shaikh!
 
 ### About Me 🚀
 
